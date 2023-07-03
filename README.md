@@ -1,0 +1,2 @@
+# database
+Untuk menyimpan JSON
