@@ -1,18 +1,4 @@
 {
-    "users" : 
-    [
-        {
-            "nama" : "Muhamad Absor Dwiyana",
-            "id" : "absor",
-            "nim" : "201011400815"
-        },
-        {
-            "nama" : "Aep Supriadi",
-            "id" : "aep",
-            "nim" : "201011401195"
-        }
-    ],
-
     "perusahaan" :
     [
       {
