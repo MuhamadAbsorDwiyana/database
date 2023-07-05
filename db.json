@@ -10,115 +10,11 @@
         }
       },
       {
-        "nama" : "",
-        "domisili" : "",
+        "nama" : "Absor",
+        "domisili" : "Bogor",
         "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      }
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
+          "email" : "absor@mail.com",
+          "telp" : "12345"
         }
       }
     ]
