@@ -1,125 +1,123 @@
-{
-    "perusahaan" :
-    [
-      {
-        "nama" : "PT. MAYORA INDAH TBK",
-        "domisili" : "Jakarta Barat",
-        "kontak" : {
-          "email" : "consumer@mayora.co.id",
-          "telp" : "+6280637704"
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      }
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      },
-      {
-        "nama" : "",
-        "domisili" : "",
-        "kontak" : {
-          "email" : "",
-          "telp" : ""
-        }
-      }
-    ]
-}
+[
+  {
+    "nama" : "PT. MAYORA INDAH TBK",
+    "domisili" : "Jakarta Barat",
+    "kontak" : {
+      "email" : "consumer@mayora.co.id",
+      "telp" : "+6280637704"
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  }
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  },
+  {
+    "nama" : "",
+    "domisili" : "",
+    "kontak" : {
+      "email" : "",
+      "telp" : ""
+    }
+  }
+]
+
