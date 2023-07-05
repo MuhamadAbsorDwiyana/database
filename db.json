@@ -1,22 +1,84 @@
 {
-  "perusahaan" : 
-    [
-      {
-        "nama" : "PT. MAYORA INDAH TBK",
-        "domisili" : "Jakarta Barat",
-        "kontak" : {
-          "email" : "consumer@mayora.co.id",
-          "telp" : "+6280637704"
-        }
-      },
-      {
-        "nama" : "Absor",
-        "domisili" : "Bogor",
-        "kontak" : {
-          "email" : "absor@mail.com",
-          "telp" : "12345"
-        }
+  "perusahaan": [
+    {
+      "nama": "PT. MAYORA INDAH TBK",
+      "domisili": "Jakarta Barat",
+      "kontak": {
+        "email": "consumer@mayora.co.id",
+        "telp": "+6280637704"
       }
-    ]
+    },
+    {
+      "nama": "PT. INDOJAYA PANCING",
+      "domisili": "Kab. Tangerang",
+      "kontak": {
+        "email": "indojaya@gmail.com",
+        "telp": "+6582572991"
+      }
+    },
+    {
+      "nama": "PT. AGRINDO MAJU LESTARI",
+      "domisili": "Kab. Tnagerang",
+      "kontak": {
+        "email": "consumer@agrindo.co.id",
+        "telp": "+6285277572"
+      }
+    },
+    {
+      "nama": "PT. EPIK PROPERTI INDONESIA",
+      "domisili": "karawang Barat",
+      "kontak": {
+        "email": "epikproperti@gmail.com",
+        "telp": "+6282192557"
+      }
+    },
+    {
+      "nama": "PT. GOLDEN LOGISTIK JAYAINDO",
+      "domisili": "Bekasi, Jawa Barat",
+      "kontak": {
+        "email": "consumer@golden.co.id",
+        "telp": "+6282133612"
+      }
+    },
+    {
+      "nama": "PT. TRIAS BETON PERKASA",
+      "domisili": "Kota Serang",
+      "kontak": {
+        "email": "trias@gmail.com",
+        "telp": "+6282154777"
+      }
+    },
+    {
+      "nama": "PT. ASTRA GROUP TBK",
+      "domisili": "Kota Tangerang",
+      "kontak": {
+        "email": "astra@gmail.com",
+        "telp": "+6282134221"
+      }
+    },
+    {
+      "nama": "PT. ANEKA KARTON BOX",
+      "domisili": "Kota Bekasi, Jawa Barat",
+      "kontak": {
+        "email": "consumer@anekakarton.co.id",
+        "telp": "+6282122417"
+      }
+    },
+    {
+      "nama": "PT. ASTRA HONDA MOTOR",
+      "domisili": "Karawang Barat, Jawa Barat",
+      "kontak": {
+        "email": "consumer@ahm.co.id",
+        "telp": "+6282154339"
+      }
+    },
+    {
+      "nama": "PT. DELTA TEKNO PERKASA",
+      "domisili": "Jakarta Barat",
+      "kontak": {
+        "email": "deltatekno@gmail.com",
+        "telp": "+6282177721"
+      }
+    }
+  ]
 }
-
